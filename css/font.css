@@ -1,0 +1,63 @@
+@font-face{
+  font-family: 'Proxima Nova';
+  src: url(../STYLE/font/proximanova_light.otf);
+  font-weight: 300;
+}
+
+@font-face{
+  font-family: 'Play';
+  src: url(../STYLE/font/Play-Regular.ttf);
+  font-weight: 400;
+}
+
+@font-face{
+  font-family: 'Play';
+  src: url(../STYLE/font/Play-Bold.ttf);
+  font-weight: 700;
+}
+
+@font-face{
+  font-family: 'Proxima Nova';
+  src: url(../STYLE/font/proximanova_regular.ttf);
+  font-weight: 400;
+}
+
+@font-face{
+  font-family: 'Nato Sans';
+  src: url(../STYLE/font/NotoSans-Regular.ttf);
+  font-weight: 400;
+}
+@font-face{
+  font-family: 'Proxima Nova';
+  src: url(../STYLE/font/ofont.ru_Proxima\ Nova.ttf);
+  font-weight: 600;
+}
+@font-face{
+  font-family: 'Proxima Nova';
+  src: url(../STYLE/font/proximanova_bold.otf);
+  font-weight: 700;
+}
+
+@font-face{
+  font-family: 'Italic';
+  src: url(../STYLE/font/proximanova_boldit.otf);
+  font-weight: 700;
+}
+
+@font-face{
+  font-family: 'Proxima Nova';
+  src: url(../STYLE/font/proximanova_extrabold.otf);
+  font-weight: 800;
+}
+
+@font-face{
+  font-family: 'Proxima Nova';
+  src: url(../STYLE/font/proximanova_black.ttf);
+  font-weight: 900;
+}
+
+@font-face{
+  font-family: 'Italic';
+  src: url(../STYLE/font/proximanova_blackit.otf);
+  font-weight: 900;
+}
